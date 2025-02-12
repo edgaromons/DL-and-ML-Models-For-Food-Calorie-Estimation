@@ -1,0 +1,10 @@
+tensorflow==2.*
+tf_slim
+pycocotools
+tflearn
+segmentation-models-pytorch
+torchsummary
+albumentations
+cython
+git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
+tensorflow-object-detection-api
